@@ -1,0 +1,125 @@
+#conteneur{
+    border: medium darkgreen inset;
+    width: 600px;
+    height: 700px;
+    margin: 0px auto 0px auto;
+    position: relative;
+}
+#entete{
+    background-color: darkgreen;
+    width: 600px;
+    height: 100px;
+}
+#barreDeNavigation{
+    background-color: dimgray;
+    width: 600px;
+    height: 100px;
+
+
+    position: absolute;
+}
+#corps{
+    position: relative;
+    background-color: silver;
+    width: 300px;
+    height: 400px;
+}
+#contenuGauche{
+    width: 300px;
+    height: 500px;
+    background-color: black;
+    float: left;
+    color: white;
+    display: inline;
+
+}
+#planDroite{
+    height: 500px;
+    width: 300px;
+    background-color: white;
+    margin-left: 300px;
+}
+#pied{
+    width: 600px;
+    height:100px;
+    background-color: dimgrey;
+    position: absolute;
+    text-align: center;
+}
+
+#photo{
+    width: 115px;
+    height: 100px;
+    float: left;
+}
+p{
+
+    color: white;
+
+   margin-left: 10px;
+
+}
+#nom{
+    font-size: 22px;
+    font-family: "Arial Black";
+}
+#etudiant{
+    font-size: 15px;
+    font-family: "Arial";
+    margin-top: -20px;
+}
+.info{
+    text-align: left;
+    font-size: 15px;
+    margin-right: 100px;
+
+}
+br{
+ line-height: 0;
+}
+.info2{
+    color: black;
+    float: left;
+
+
+
+}
+#test
+{
+    float:right ;
+    margin-right: 16%;
+    color: red;
+}
+a{
+    color: red;
+}
+#tel{
+    height: 50px;
+    width: 70px;
+    margin-top: 34px;
+    text-align: right;
+    float: right;
+    margin-right: 200px;
+
+}
+.texteDroite{
+    float: left;
+}
+h2{
+    color: goldenrod;
+    margin-left: 10px;
+}
+#loc{
+    height: 50px;
+    width: 70px;
+    margin-top: 15px;
+    text-align: left;
+    float: left;
+    margin-left: 200px;
+
+
+
+}
+
+
+
